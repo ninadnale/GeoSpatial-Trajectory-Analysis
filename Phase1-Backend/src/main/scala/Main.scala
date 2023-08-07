@@ -1,9 +1,4 @@
-/*
-* Copyright (c) 11/24/2022 . Amey Bhilegaonkar. All rights reserved.
-* AUTHOR: Amey Bhilegoankar
-* PORTFOLIO: https://ameyportfolio.netlify.app/
-* FILE CREATION DATE: 11/24/2022
-*/
+
 // ================== backend imports ====================
 import akka.actor.typed.scaladsl.Behaviors
 import akka.http.scaladsl.Http
