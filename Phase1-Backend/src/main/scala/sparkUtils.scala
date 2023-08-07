@@ -1,9 +1,3 @@
-/*
-* Copyright (c) 11/25/2022 . Amey Bhilegaonkar. All rights reserved.
-* AUTHOR: Amey Bhilegoankar
-* PORTFOLIO: https://ameyportfolio.netlify.app/
-* FILE CREATION DATE: 11/25/2022
-*/
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.{DataFrame, SaveMode, SparkSession}
 import org.apache.spark.serializer.KryoSerializer
