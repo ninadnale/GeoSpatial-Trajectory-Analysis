@@ -1,8 +1,3 @@
-# ======================================================
-# Copyright (c) Amey Bhilegaonkar. All rights reserved.
-# AUTHOR: AMEY BHILEGAONKAR
-# PORTFOLIO: https://ameyportfolio.netlify.app
-# ======================================================
 LOCALHOST = "localhost"
 loadPORT = 8081
 gsrPORT  = 8082
